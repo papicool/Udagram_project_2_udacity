@@ -1,0 +1,18 @@
+[	
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramProject"
+	},
+  	{
+		"ParameterKey": "AMIId",
+		"ParameterValue":"ami-061dbd1209944525c"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue":"t2.medium"
+	},
+	{
+		"ParameterKey": "VolumeSize",
+		"ParameterValue":"10"
+	}
+]
